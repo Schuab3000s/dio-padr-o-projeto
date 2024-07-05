@@ -1,1 +1,1 @@
-# dio-padr-o-projeto
+# dio-padrão-projeto
